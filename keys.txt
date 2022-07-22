@@ -1,0 +1,2 @@
+Salmansir-git link- salman444@gmail.com 
+notepad ~/.ssh/id_rsa.pub
